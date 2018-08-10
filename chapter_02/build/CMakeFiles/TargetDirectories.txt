@@ -1,0 +1,4 @@
+/Users/zw/code/C_and_C++_Projects/Computer_Graphics_via_OpenGL/chapter_02/build/CMakeFiles/rebuild_cache.dir
+/Users/zw/code/C_and_C++_Projects/Computer_Graphics_via_OpenGL/chapter_02/build/CMakeFiles/edit_cache.dir
+/Users/zw/code/C_and_C++_Projects/Computer_Graphics_via_OpenGL/chapter_02/build/CMakeFiles/test_opengl.dir
+/Users/zw/code/C_and_C++_Projects/Computer_Graphics_via_OpenGL/chapter_02/build/CMakeFiles/square.dir
